@@ -1,0 +1,14 @@
+{   "manifest_version": 3,
+	"name": "UA Demo Extension",
+	"version": "1.0",
+	"description": "UA Demo Extension",
+	"permissions": ["declarativeContent", "activeTab", "tabs", "downloads","scripting","notifications","https://*/*"],
+	"host_permissions": ["*://*/*"],
+	"background":{
+        "service_worker":"background.js"
+    },
+    "action": {
+    	"default_popup": "popup.html"
+    }
+	
+}
