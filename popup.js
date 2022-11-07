@@ -2,10 +2,9 @@
 
 // list of urls to navigate
 let urls_list = [
-	'https://amazon.com',
-	'https://mongodb.org',
-	'https://github.com',
-	'https://heroku.com',
+	'https://www.amazon.co.uk/Geometric-Mandalas-Coloring-Book-Relaxation/dp/B099TNJY7G/ref=sr_1_4?qid=1644021827&refinements=p_27%3ATrisha+Publishing&s=books&sr=1-4&text=Trisha+Publishing',
+	'https://www.homebargains.co.uk/products/17947-free-standing-3-tier-wooden-shoe-rack.aspx',
+	'https://www.studio.co.uk/shop/garden---outdoor/garden-outdoor-lighting/solar-lights-for-the-garden/victoriana-365-solar-lamp-post?searchTerm=lamp%20post&pageView=&pageSize=60&orderBy',
 ];
 
 // start navigation when #startNavigation button is clicked
